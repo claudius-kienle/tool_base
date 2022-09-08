@@ -15,7 +15,7 @@ dependencies:
   intl: ^0.17.0
   platform: ^3.0.0-nullsafety.2
   process: ^4.0.0-nullsafety.2
-  pub_cache: ^0.2.3
+  pub_cache: ^0.3.1
 
 dev_dependencies:
   pedantic: ^1.10.0-nullsafety.1
